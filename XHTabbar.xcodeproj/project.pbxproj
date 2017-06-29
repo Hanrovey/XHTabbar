@@ -19,6 +19,7 @@
 		B0D72BB51F04A64A00C2A66A /* UIView+Border.m in Sources */ = {isa = PBXBuildFile; fileRef = B0D72BB41F04A64A00C2A66A /* UIView+Border.m */; };
 		B0D72BB81F04A67400C2A66A /* XHTabbarCollectionCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B0D72BB71F04A67400C2A66A /* XHTabbarCollectionCell.m */; };
 		B0D72BBB1F04A74900C2A66A /* XHTestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B0D72BBA1F04A74900C2A66A /* XHTestViewController.m */; };
+		B0D72BBF1F04AB7600C2A66A /* demo_show.png in Resources */ = {isa = PBXBuildFile; fileRef = B0D72BBE1F04AB7600C2A66A /* demo_show.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,6 +64,7 @@
 		B0D72BB71F04A67400C2A66A /* XHTabbarCollectionCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XHTabbarCollectionCell.m; sourceTree = "<group>"; };
 		B0D72BB91F04A74900C2A66A /* XHTestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XHTestViewController.h; sourceTree = "<group>"; };
 		B0D72BBA1F04A74900C2A66A /* XHTestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XHTestViewController.m; sourceTree = "<group>"; };
+		B0D72BBE1F04AB7600C2A66A /* demo_show.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = demo_show.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +115,7 @@
 		B0D72B7C1F04A53900C2A66A /* XHTabbar */ = {
 			isa = PBXGroup;
 			children = (
+				B0D72BBE1F04AB7600C2A66A /* demo_show.png */,
 				B0D72BB01F04A5E800C2A66A /* XHTabbarView.h */,
 				B0D72BB11F04A5E800C2A66A /* XHTabbarView.m */,
 				B0D72BB61F04A67400C2A66A /* XHTabbarCollectionCell.h */,
@@ -267,6 +270,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B0D72B8D1F04A53900C2A66A /* LaunchScreen.storyboard in Resources */,
+				B0D72BBF1F04AB7600C2A66A /* demo_show.png in Resources */,
 				B0D72B8A1F04A53900C2A66A /* Assets.xcassets in Resources */,
 				B0D72B881F04A53900C2A66A /* Main.storyboard in Resources */,
 			);
@@ -531,6 +535,7 @@
 				B0D72BA91F04A53A00C2A66A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B0D72BAA1F04A53A00C2A66A /* Build configuration list for PBXNativeTarget "XHTabbarTests" */ = {
 			isa = XCConfigurationList;
@@ -539,6 +544,7 @@
 				B0D72BAC1F04A53A00C2A66A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B0D72BAD1F04A53A00C2A66A /* Build configuration list for PBXNativeTarget "XHTabbarUITests" */ = {
 			isa = XCConfigurationList;
@@ -547,6 +553,7 @@
 				B0D72BAF1F04A53A00C2A66A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
