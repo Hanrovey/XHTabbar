@@ -15,4 +15,4 @@ vc0.title = @"体育";
 
 
 效果图：
-![image](https://github.com/Hanrovey/master/XHTabbar/XHTabbar/demo_show.png)
+![image](https://github.com/Hanrovey/XHTabbar/blob/master/XHTabbar/demo_show.png)
