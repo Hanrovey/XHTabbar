@@ -12,3 +12,7 @@ vc0.title = @"体育";
 [tabbar addSubItemWithViewController:vc0];
 
 ```
+
+
+效果图：
+![image](https://github.com/Hanrovey/XHTabbar/XHTabbar/demo_show.png)
